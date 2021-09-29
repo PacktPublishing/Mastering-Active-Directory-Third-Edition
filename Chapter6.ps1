@@ -49,7 +49,7 @@ Get-ADForest | Select-Object DomainNamingMaster, SchemaMaster
 
 # Move FSMO Roles
 
-Move-ADDirectoryServerOperationMasterRole -Identity DC02 -OperationMasterRole SchemaMaster,DomainNamingMaster,PDCEmulator,RIDMaster,InfrastructureMaster
+Move-ADDirectoryServerOperationMasterRole -Identity DC22 -OperationMasterRole SchemaMaster,DomainNamingMaster,PDCEmulator,RIDMaster,InfrastructureMaster
 
 # Uninstall AD DS
 
