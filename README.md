@@ -31,3 +31,7 @@ You need to have some experience of working with Active Directory to make the mo
 
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801070393">https://packt.link/free-ebook/9781801070393 </a> </p>
